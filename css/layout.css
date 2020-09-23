@@ -1,0 +1,189 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background: #bfbfbf;
+	margin: 0px;
+	font-family:Helvetica, Arial, sans-serif;
+	font-size: 13pt;
+	color:#484849;
+	line-height: 17pt;
+}
+
+.tag {
+	font-size: 14pt;
+	color: #159ca9;
+}
+
+.whitetxt {
+	color:#FFF;
+}
+
+.copyright {
+	color:#000;
+	font-size:12pt;
+}
+
+.azmfooter {
+	font-size: 11pt;
+	color:#000;
+}
+
+#azmfooter a:link {
+	color:#000;
+	text-decoration:none;
+}
+
+#azmfooter a:hover {
+	color:#000;
+	text-decoration:underline;
+}
+
+#azmfooter a:visited {
+	color:#000;
+	text-decoration:none;
+}
+
+.chapter {
+	font-size: 14pt;
+	font-weight: bold;
+	color: #656566;
+}
+
+.vidresearch {
+	color:#000;
+	font-size:14pt;
+	font-weight:bold;
+}
+
+/*----------Chapter1----------*/
+
+.ch1title {
+	color:#9b20b3;
+	font-size:16pt;
+	font-weight:bold;
+}
+
+#ch1 a:link {
+	color:#9b20b3;
+	text-decoration:underline;
+}
+
+#ch1 a:hover {
+	color: #656566;
+	text-decoration:underline;
+}
+
+#ch1 a:visited {
+	color: #9b20b3;
+	text-decoration:underline;
+}
+
+/*----------Chapter2----------*/
+
+.ch2title {
+	color:#e94a18;
+	font-size:16pt;
+	font-weight:bold;
+}
+
+#ch2 a:link {
+	color:#e94a18;
+	text-decoration:underline;
+}
+
+#ch2 a:hover {
+	color: #656566;
+	text-decoration:underline;
+}
+
+#ch2 a:visited {
+	color: #e94a18;
+	text-decoration:underline;
+}
+
+/*----------Chapter3----------*/
+
+.ch3title {
+	color:#338513;
+	font-size:16pt;
+	font-weight:bold;
+}
+
+#ch3 a:link {
+	color:#338513;
+	text-decoration:underline;
+}
+
+#ch3 a:hover {
+	color: #656566;
+	text-decoration:underline;
+}
+
+#ch3 a:visited {
+	color: #338513;
+	text-decoration:underline;
+}
+
+/*----------Chapter4----------*/
+
+.ch4title {
+	color:#6819e8;
+	font-size:16pt;
+	font-weight:bold;
+}
+
+#ch4 a:link {
+	color:#6819e8;
+	text-decoration:underline;
+}
+
+#ch4 a:hover {
+	color: #656566;
+	text-decoration:underline;
+}
+
+#ch4 a:visited {
+	color: #6819e8;
+	text-decoration:underline;
+}
+
+/*----------Chapter5----------*/
+
+.ch5title {
+	color:#b90a12;
+	font-size:16pt;
+	font-weight:bold;
+}
+
+#ch5 a:link {
+	color:#b90a12;
+	text-decoration:underline;
+}
+
+#ch5 a:hover {
+	color: #656566;
+	text-decoration:underline;
+}
+
+#ch5 a:visited {
+	color: #b90a12;
+	text-decoration:underline;
+}
+
+/*----------Researchers----------*/
+
+#research a:link {
+	color:#843d13;
+	text-decoration:underline;
+}
+
+#research a:hover {
+	color: #656566;
+	text-decoration:underline;
+}
+
+#research a:visited {
+	color: #656566;
+	text-decoration:underline;
+}
